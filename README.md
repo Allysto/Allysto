@@ -71,8 +71,8 @@ A complete, production-ready inventory management system with real-time analytic
 ## 📫 Connect With Me
 
 - **Email**: allylebo@gmail.com
-- **GitHub**: [@Allysto](https://github.com/Allysto)
-- **LinkedIn**: (https://www.linkedin.com/in/alfred-l-b373a5283/)
+- **GitHub**: [@Allysto]https://github.com/Allysto
+- **LinkedIn**:https://www.linkedin.com/in/alfred-l-b373a5283/
 
 ---
 
