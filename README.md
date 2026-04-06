@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Alfred 
+# 👋 Hi, I'm Alfred
 
 🎓 **BSc IT Graduate** @ North-West University  
-💻 **Full-Stack Developer** | ☕ **Java Developer** | 📊 **Data Analytics Enthusiast**
+💻 **Full-Stack Developer** | ☕ **Java Developer** | 📊 **Data Analytics & SQL Specialist**
 
 ---
 
@@ -46,13 +46,48 @@ A comprehensive Java application demonstrating Object-Oriented Programming princ
 
 ---
 
+### 3. 🗄️ SQL Big Data Warehouse (Enterprise Analytics)
+
+An enterprise-scale data warehouse demonstrating advanced SQL skills for big data analytics with star schema design and complex query optimization.
+
+[![SQL Repo](https://img.shields.io/badge/GitHub-SQL%20Data%20Warehouse-red)](https://github.com/Allysto/sql-big-data-warehouse)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue)](https://postgresql.org)
+[![Star Schema](https://img.shields.io/badge/Architecture-Star%20Schema-brightgreen)](https://en.wikipedia.org/wiki/Star_schema)
+
+**Tech Stack**: PostgreSQL, SQL, Window Functions, Advanced Indexing, Partitioning
+
+**Database Architecture**:
+- ✅ **Star Schema** with 1 fact table and 4 dimension tables
+- ✅ **Range Partitioning** on date_key (monthly partitions)
+- ✅ **SCD Type 2** for customer dimension (historical tracking)
+- ✅ **Advanced Indexing** (B-tree, partial, covering, BRIN)
+- ✅ **Window Functions** for running totals, moving averages, ranking
+
+**Key Metrics**:
+- **100,000+ sales records** (scalable to 50M+)
+- **R1,284,000+ total sales** analyzed across 5 provinces
+- **< 2 second query response** on aggregated data
+
+**Sample Query Results**:
+
+| Province | Total Sales | Unique Customers |
+|----------|-------------|------------------|
+| Western Cape | R286,737.71 | 182 |
+| Eastern Cape | R262,029.34 | 188 |
+| KwaZulu-Natal | R255,727.45 | 182 |
+| Gauteng | R241,191.80 | 175 |
+| Free State | R238,335.80 | 178 |
+
+---
+
 ## 🛠️ Technical Skills
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Python, Java, JavaScript, SQL, HTML5, CSS3 |
+| **Languages** | Python, Java, JavaScript, SQL (Advanced), HTML5, CSS3 |
 | **Frameworks** | FastAPI, React, .NET Core (learning) |
 | **Databases** | PostgreSQL, SQL Server, SQLite |
+| **Big Data & Analytics** | Window Functions, Query Optimization, Partitioning, Indexing Strategies |
 | **DevOps & Tools** | Git, GitHub, Render, Vercel, CI/CD |
 | **OOP Concepts** | Inheritance, Polymorphism, Encapsulation, Abstraction |
 
@@ -68,6 +103,13 @@ A comprehensive Java application demonstrating Object-Oriented Programming princ
 
 ---
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allysto&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allysto&layout=compact&theme=radical)
+
+---
+
 ## 📫 Connect With Me
 
 - **Email**: allylebo@gmail.com
@@ -76,4 +118,4 @@ A comprehensive Java application demonstrating Object-Oriented Programming princ
 
 ---
 
-*Open to opportunities in software development, Java development, data analytics, and IT consulting.*
+*Open to opportunities in software development, Java development, data analytics, big data, and IT consulting.*
