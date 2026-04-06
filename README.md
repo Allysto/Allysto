@@ -97,16 +97,8 @@ An enterprise-scale data warehouse demonstrating advanced SQL skills for big dat
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Employee Calculator](https://github.com/Allysto/employee-Calculator) | Employee management tool | JavaScript |
-| [Job Application Tracker](https://github.com/Allysto/Job-Application-Tracker) | Track job applications | JavaScript |
+
 | [DBMS SQL Project](https://github.com/Allysto/DBMS-SQL-PROJECT-FIT-GENDER) | Database design project | PL/SQL |
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allysto&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allysto&layout=compact&theme=radical)
 
 ---
 
