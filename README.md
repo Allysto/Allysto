@@ -80,13 +80,45 @@ An enterprise-scale data warehouse demonstrating advanced SQL skills for big dat
 
 ---
 
+### 4. 📊 Bike Sales Dashboard (Excel Data Analysis)
+
+An interactive Excel dashboard analyzing bike purchase behavior across 1,000 customers to identify key demographic and economic factors influencing purchasing decisions.
+
+[![Excel Repo](https://img.shields.io/badge/GitHub-Excel%20Dashboard-brightgreen)](https://github.com/Allysto/excel-bike-sales-dashboard)
+[![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables-blue)](https://microsoft.com/excel)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insights-orange)](https://github.com)
+
+**Tech Stack**: Microsoft Excel, Pivot Tables, Pivot Charts, Data Visualization
+
+**Key Insights**:
+- ✅ **Pacific region** has highest average income (R63,594)
+- ✅ **Professional + Bachelors degree** segment shows strongest purchase behavior (92 purchases)
+- ✅ **Adult and Old age groups** have higher incomes among bike purchasers
+- ✅ **Higher education levels** (Bachelors, Graduate Degree) account for 74.5% of all purchases
+
+**Dashboard Components**:
+- Pivot Tables for income analysis by region, gender, and age group
+- Cross-tabulation of purchases by education and occupation
+- Interactive charts for regional sales comparison
+
+**Business Recommendations**:
+- Target marketing efforts on Pacific and North America regions
+- Focus on Professional and Skilled Manual occupations
+- Develop age-specific campaigns for Adult and Old groups
+- Consider income-based financing for lower income segments
+
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard_Details-blue)](https://github.com/Allysto/excel-bike-sales-dashboard)
+
+---
+
 ## 🛠️ Technical Skills
 
 | Category | Technologies |
 |----------|--------------|
 | **Languages** | Python, Java, JavaScript, SQL (Advanced), HTML5, CSS3 |
-| **Frameworks** | FastAPI, React, .NET Core (learning) |
+| **Frameworks** | FastAPI, React, .NET Core |
 | **Databases** | PostgreSQL, SQL Server, SQLite |
+| **Data Analysis** | Excel Pivot Tables, Pivot Charts, Data Visualization, Business Intelligence |
 | **Big Data & Analytics** | Window Functions, Query Optimization, Partitioning, Indexing Strategies |
 | **DevOps & Tools** | Git, GitHub, Render, Vercel, CI/CD |
 | **OOP Concepts** | Inheritance, Polymorphism, Encapsulation, Abstraction |
@@ -97,7 +129,6 @@ An enterprise-scale data warehouse demonstrating advanced SQL skills for big dat
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-
 | [DBMS SQL Project](https://github.com/Allysto/DBMS-SQL-PROJECT-FIT-GENDER) | Database design project | PL/SQL |
 
 ---
@@ -110,4 +141,4 @@ An enterprise-scale data warehouse demonstrating advanced SQL skills for big dat
 
 ---
 
-*Open to opportunities in software development, Java development, data analytics, big data, and IT consulting.*
+*Open to opportunities in software development, Java development, data analytics, big data, business intelligence, and IT consulting.*
