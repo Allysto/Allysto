@@ -139,6 +139,24 @@ An interactive Excel dashboard analyzing bike purchase behavior across 1,000 cus
 - **GitHub**: [@Allysto](https://github.com/Allysto)
 - **LinkedIn**: [Alfred Lebu](https://www.linkedin.com/in/alfred-l-b373a5283/)
 
+
+### 4. 🎫 Customer Support Ticket System (C# .NET)
+
+Enterprise-grade ticket management system with role-based access and real-time tracking.
+
+[![C# Repo](https://img.shields.io/badge/GitHub-C%23%20.NET-purple)](https://github.com/Allysto/ticket-system-csharp)
+
+**Tech Stack**: C#, .NET 8, ASP.NET Core MVC, Entity Framework Core, SQL Server
+
+**Key Features**:
+- ✅ Role-based authentication (Admin, SupportAgent, Customer)
+- ✅ Complete ticket lifecycle management
+- ✅ Comment system with history tracking
+- ✅ Interactive dashboard
+- ✅ Secure database with migrations
+
+**Live Demo**: Coming soon (deploying to Azure/Render)
+
 ---
 
 *Open to opportunities in software development, Java development, data analytics, big data, business intelligence, and IT consulting.*
