@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Alfred
+#  Hi,
 
-🎓 **BSc IT Graduate** @ North-West University  
+🎓 **BSc IT ** 
 💻 **Full-Stack Developer** | ☕ **Java Developer** | 📊 **Data Analytics & SQL Specialist**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 1. 📦 Inventory Management System (Full-Stack)
+### 1. Inventory Management System (Full-Stack)
 
 A complete, production-ready inventory management system with real-time analytics, deployed on cloud infrastructure.
 
@@ -26,7 +26,7 @@ A complete, production-ready inventory management system with real-time analytic
 
 ---
 
-### 2. 🏫 University Management System (Java OOP)
+### 2. University Management System (Java OOP)
 
 A comprehensive Java application demonstrating Object-Oriented Programming principles including Inheritance, Polymorphism, Specialization, and File I/O.
 
@@ -46,7 +46,7 @@ A comprehensive Java application demonstrating Object-Oriented Programming princ
 
 ---
 
-### 3. 🎫 Customer Support Ticket System (C# .NET)
+### 3. Customer Support Ticket System (C# .NET)
 
 Enterprise-grade ticket management system with role-based access and real-time tracking.
 
@@ -63,7 +63,7 @@ Enterprise-grade ticket management system with role-based access and real-time t
 
 **Live Demo**: Coming soon (deploying to Azure/Render)
 
-### 4. 🗄️ SQL Big Data Warehouse (Enterprise Analytics)
+### 4. SQL Big Data Warehouse (Enterprise Analytics)
 
 An enterprise-scale data warehouse demonstrating advanced SQL skills for big data analytics with star schema design and complex query optimization.
 
@@ -97,7 +97,7 @@ An enterprise-scale data warehouse demonstrating advanced SQL skills for big dat
 
 ---
 
-### 5. 📊 Bike Sales Dashboard (Excel Data Analysis)
+### 5. Bike Sales Dashboard (Excel Data Analysis)
 
 An interactive Excel dashboard analyzing bike purchase behavior across 1,000 customers to identify key demographic and economic factors influencing purchasing decisions.
 
@@ -128,7 +128,7 @@ An interactive Excel dashboard analyzing bike purchase behavior across 1,000 cus
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 | Category | Technologies |
 |----------|--------------|
@@ -142,7 +142,7 @@ An interactive Excel dashboard analyzing bike purchase behavior across 1,000 cus
 
 ---
 
-## 📚 Other Projects
+##  Other Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -150,11 +150,11 @@ An interactive Excel dashboard analyzing bike purchase behavior across 1,000 cus
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- **Email**: allylebo@gmail.com
+- **
 - **GitHub**: [@Allysto](https://github.com/Allysto)
-- **LinkedIn**: [Alfred Lebu](https://www.linkedin.com/in/alfred-l-b373a5283/)
+- **
 
 
 
