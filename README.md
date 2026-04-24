@@ -154,7 +154,7 @@ An interactive Excel dashboard analyzing bike purchase behavior across 1,000 cus
 
 - **Email**: allylebo@gmail.com
 - **GitHub**: [@Allysto](https://github.com/Allysto)
-- **LinkedIn**: [Alfred Lebu](https://www.linkedin.com/in/alfred-l-b373a5283/)
+- **LinkedIn**: [Alfred](https://www.linkedin.com/in/alfred-l-b373a5283/)
 
 
 
