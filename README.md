@@ -1,10 +1,10 @@
 # Hi, I'm Alfred
 
-**BSc IT Graduate** (North-West University, 2025)
+**BSc IT Graduate** @NWU
 
 Full-stack developer focused on solving real business problems through clean code and data-driven insights.
 
-📍 South Africa
+South Africa
 
 [![Cisco Data Analytics Essentials](https://img.shields.io/badge/Cisco-Data_Analytics_Essentials-1BA0D7?style=flat&logo=cisco&logoColor=white)](https://www.credly.com/badges/c435524d-b1fb-4111-93a2-a22109834bc3/public_url)
 
