@@ -14,7 +14,7 @@ South Africa
 
 ### Inventory Management System
 
-A production ready dashboard that helps small business owners track inventory in real time and prevent stock-outs.
+A production ready dashboard that helps small business owners track inventory in real time and prevent stock outs.
 
 **Deployment lessons:** Moving from localhost to production took two days a humbling reminder that DevOps is a craft of its own.
 
@@ -50,7 +50,7 @@ An enterprise style ticketing system with role based access and full lifecycle m
 
 ### University Management System (Java OOP)
 
-A complete implementation of core OOP principles using Java and file-based persistence.
+A complete implementation of core OOP principles using Java and file based persistence.
 
 - **Tech:** Java 11+, OOP, Collections Framework, File I/O (CSV)
 - **Code:** [Repository](https://github.com/Allysto/university-management-system-java)
@@ -59,7 +59,7 @@ A complete implementation of core OOP principles using Java and file-based persi
 
 ### Bike Sales Dashboard (Excel)
 
-A professional-grade Excel dashboard delivering actionable business insights from raw customer data.
+A professional grade Excel dashboard delivering actionable business insights from raw customer data.
 
 - **Tech:** Excel Pivot Tables, Pivot Charts, Data Cleaning
 - **Code:** [Repository](https://github.com/Allysto/excel-bike-sales-dashboard)
