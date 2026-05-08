@@ -3,6 +3,7 @@
 **BSc IT Graduate** @NWU
 
 Full stack developer focused on solving real business problems through clean code and data driven insights.
+Portfolio: [https://portfolioofalfred.netlify.app/](url)
 
 South Africa
 
