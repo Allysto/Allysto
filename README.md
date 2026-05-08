@@ -97,6 +97,6 @@ A professional-grade Excel dashboard delivering actionable business insights fro
 
 ---
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/alfred-l-b373a5283/) | **Email:** allylebo@gmail.com
+**Connect:** [LinkedIn](https://www.linkedin.com/in/alfred-l-b373a5283/) | **Email:** allylebo@gmail.com
 
 **Credential verification:** [Cisco Data Analytics Essentials](https://www.credly.com/badges/c435524d-b1fb-4111-93a2-a22109834bc3/public_url)
