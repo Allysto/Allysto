@@ -16,7 +16,7 @@ South Africa
 
 A production-ready dashboard that helps small business owners track inventory in real time and prevent stock-outs.
 
-**Deployment lessons:** Moving from localhost to production took two days — a humbling reminder that DevOps is a craft of its own.
+**Deployment lessons:** Moving from localhost to production took two days a humbling reminder that DevOps is a craft of its own.
 
 - **Tech:** Python, FastAPI, PostgreSQL, React, Tailwind CSS
 - **Live:** [Frontend](https://inventory-management-frontend-ivory.vercel.app) | [Backend API](https://inventory-management-backend-2-2h44.onrender.com) | [API Docs](https://inventory-management-backend-2-2h44.onrender.com/docs)
@@ -28,7 +28,7 @@ A production-ready dashboard that helps small business owners track inventory in
 
 An enterprise-scale data warehouse demonstrating advanced SQL capabilities on large datasets.
 
-**Performance insight:** Proper indexing reduced query execution time from 15 seconds to under 2 seconds — a practical lesson in database optimisation.
+**Performance insight:** Proper indexing reduced query execution time from 15 seconds to under 2 seconds a practical lesson in database optimisation.
 
 - **Tech:** PostgreSQL, Window Functions, Partitioning, Advanced Indexing
 - **Scale:** 100,000+ records | R1.28M+ in sales analysed across 5 provinces
