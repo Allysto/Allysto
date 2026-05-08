@@ -2,7 +2,7 @@
 
 **BSc IT Graduate** @NWU
 
-Full-stack developer focused on solving real business problems through clean code and data-driven insights.
+Full stack developer focused on solving real business problems through clean code and data driven insights.
 
 South Africa
 
@@ -14,7 +14,7 @@ South Africa
 
 ### Inventory Management System
 
-A production-ready dashboard that helps small business owners track inventory in real time and prevent stock-outs.
+A production ready dashboard that helps small business owners track inventory in real time and prevent stock-outs.
 
 **Deployment lessons:** Moving from localhost to production took two days a humbling reminder that DevOps is a craft of its own.
 
@@ -26,20 +26,12 @@ A production-ready dashboard that helps small business owners track inventory in
 
 ### SQL Big Data Warehouse
 
-An enterprise-scale data warehouse demonstrating advanced SQL capabilities on large datasets.
+An enterprise scale data warehouse demonstrating advanced SQL capabilities on large datasets.
 
 **Performance insight:** Proper indexing reduced query execution time from 15 seconds to under 2 seconds a practical lesson in database optimisation.
 
 - **Tech:** PostgreSQL, Window Functions, Partitioning, Advanced Indexing
-- **Scale:** 100,000+ records | R1.28M+ in sales analysed across 5 provinces
-
-| Province | Sales |
-|----------|-------|
-| Western Cape | R286,737 |
-| Eastern Cape | R262,029 |
-| KwaZulu-Natal | R255,727 |
-| Gauteng | R241,191 |
-| Free State | R238,335 |
+- **Scale:** 100,000+ records | R1.28M+ in sales analysed across 5 provinces. 
 
 - **Code:** [Repository](https://github.com/Allysto/sql-big-data-warehouse)
 
@@ -47,7 +39,7 @@ An enterprise-scale data warehouse demonstrating advanced SQL capabilities on la
 
 ### Customer Support Ticket System (C# .NET)
 
-An enterprise-style ticketing system with role-based access and full lifecycle management.
+An enterprise style ticketing system with role based access and full lifecycle management.
 
 - **Tech:** C#, .NET 8, ASP.NET Core MVC, Entity Framework Core, SQL Server
 - **Features:** Role-based authentication (Admin, SupportAgent, Customer) | Full ticket lifecycle | Comment history
