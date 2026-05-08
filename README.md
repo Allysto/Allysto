@@ -91,8 +91,6 @@ A professional-grade Excel dashboard delivering actionable business insights fro
 ## Current Focus
 
 - Applying for graduate developer and data analyst roles
-- Preparing for Azure AZ-900 certification (exam scheduled)
-- Extending backend skills with Spring Boot
 - Seeking a team environment to contribute and grow
 
 ---
